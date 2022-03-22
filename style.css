@@ -1,0 +1,39 @@
+.posTitle {
+    top: 175px;
+    left: 7%;
+    color: #557B83;
+}
+
+.bgCustomNav {
+    /*background-color: rgb(16, 62, 88);*/
+    background-color: #39AEA9;
+}
+
+.posSpam {
+    top: 230px;
+    left: 7%;
+}
+
+.mc-100 {
+    margin-top: 150px;
+}
+
+.justiText {
+    text-align: justify;
+}
+
+.btn-custom-p {
+    background-color: #39AEA9;
+}
+
+.text-custom-color {
+    color: #557B83;
+}
+
+.bg-custom-t {
+    background-color: #557B83;
+}
+
+.hc-25 {
+    height: 500px;
+}
